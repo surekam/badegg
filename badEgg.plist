@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/surekam/badegg/raw/master/BadEgg.ipa</string>
+					<string>https://raw.githubusercontent.com/surekam/badegg/master/BadEgg.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
